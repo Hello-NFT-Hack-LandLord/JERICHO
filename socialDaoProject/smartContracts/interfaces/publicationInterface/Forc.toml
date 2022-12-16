@@ -1,0 +1,8 @@
+[project]
+authors = ["Kanoopz"]
+entry = "lib.sw"
+license = "Apache-2.0"
+name = "publicationInterface"
+
+[dependencies]
+nftInterface = { path = "../nftInterface" }
