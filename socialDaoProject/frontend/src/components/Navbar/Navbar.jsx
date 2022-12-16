@@ -8,7 +8,7 @@ function Navbar(){
             <h3 className="jerichoname">JERICHO</h3>
             <div className ="LinksNav" >
             <Link className="DecNet" to = {"/"}>DECISION NETWORK</Link>
-            <Link className="propos" to={"/Propositions"}> Propousal</Link>
+            <Link className="propos" to={"/Propositions"}> Proposal</Link>
         </div>
             <h3 className="name-link">NAMEPLACEHOLDER</h3>
         </div>

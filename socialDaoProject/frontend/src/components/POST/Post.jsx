@@ -3,10 +3,12 @@ import Comment from "../Comments/Comments"
 const Post = () => {
   return (
     <div className = "Cardpost">
-        <p>VARPost</p>
-        <h1>VARcomentarios</h1>
-        <button>Comments</button>
-    </div>
+        <p className="wallet-name-card">VARPost</p>
+        <h1 className="comment-card">VARcomentarios</h1>
+        <div class="wrap">
+  <button class="button">Dick</button>
+</div>
+</div>
   )
 }
 

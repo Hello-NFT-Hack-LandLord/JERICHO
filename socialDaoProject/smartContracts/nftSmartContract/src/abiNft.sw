@@ -4,6 +4,11 @@ dep nftStruct;
 
 use nftStruct::nftContent;
 
+pub enum State {
+    NotInitialized: (),
+    Initialized: (),
+}
+
 abi abiNftFunctions
 {
     /*

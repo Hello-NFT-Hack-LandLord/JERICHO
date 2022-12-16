@@ -8,8 +8,12 @@ const Comments = () => {
             <input
             className="input-peli"
             placeholder="Comment"/>
-            <button onClick = "" >Post</button>
-            <button onClick = ""> Proposals</button>
+          <div class="wrap">
+    <button class="button">Dick</button>
+        </div>
+        <div class="wrap">
+        <button class="button">Dick</button>
+            </div>
         </div>
     )
 }
