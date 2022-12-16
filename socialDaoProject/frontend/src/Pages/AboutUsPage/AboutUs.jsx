@@ -1,17 +1,20 @@
 import React from 'react'
-import "./AboutUs.jsx"
-
+import { Link } from 'react-router-dom'
+import "./AboutUs.css"
+import IMG from "../../img/IMG_8579.jpg"
 function AboutUs() {
   return (
     <div className='wrapaboutus'>
-      <h1 className='gusto'>hola, mucho gusto</h1>
-      <div className="mensaje-aboutus">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-      Optio ut nisi necessitatibus doloremque aspernatur, 
-      praesentium nihil. Consectetur, perspiciatis dignissimos alias 
-      fugit dicta quibusdam similique nihil reiciendis ex, maxime cum. 
-      Provident.
+      <div className='Aboutus1' >
+      <h1 className='gusto'>JERICHO</h1>
+      <h1 className="mensaje-aboutus">
+        We are students from Tec Monterrey, our mission is to prove that de social media is not what you think and we need a change. We made a DAO to prove that social media can be decentralized and more focus on the user security.
+      </h1>
+     
       </div>
-      <div className='foto-us'>foto va AQUI</div>
+      <div >
+        <img className='foto-us' src={IMG} alt={"IMG"}/>
+      </div>
     </div>
   )
 }
