@@ -11,10 +11,10 @@ function CreatePost() {
         <textarea id="w3review" name="w3review" rows="4" cols="50"> </textarea>
         <div className="wrapsote">
         <div class="wrap">
-  <button class="button">Dick</button>
+  <button class="button">Add Post</button>
         </div>
         <div class="wrap">
-  <button class="button">Dick</button>
+  <Link to="/CreatePropousal"><button class="button">Proposal</button></Link>
         </div>
       
         

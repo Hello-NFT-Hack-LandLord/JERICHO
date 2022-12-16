@@ -10,10 +10,10 @@ function CreatePropousal() {
         <textarea id="w3review" name="w3review" rows="4" cols="50"> </textarea>
             <div class="wrapsote">
             <div class="wrap">
-  <button class="button">Dick</button>
+  <button class="button">Add Proposal</button>
         </div>
         <div class="wrap">
-  <button class="button">Dick</button>
+  <Link to="/CreatePost" ><button class="button">Post</button></Link>
         </div>
     </div>
     </div>
