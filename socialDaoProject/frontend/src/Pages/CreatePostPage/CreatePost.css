@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Source+Code+Pro&display=swap');
+
 .CreatePost{
    background-color:  #FCE2DB;
     width: 100%;
@@ -7,7 +9,12 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    font-family: 'PT Sans', sans-serif;
 }
+
+
+
+
 
 .BoxPost{
     background-color: #80489C;
@@ -28,13 +35,20 @@
 }
 
 .CreatePostL{
-    color: #432C7A;
+    color: #FCE2DB;
     font-size: 50px;
     
 }
 
 
+
+.wrapsote{
+  padding-left: 30px;
+  display: flex;
+}
+
 .wrap {
+  margin: 30px;
     height: 100%;
     display: flex;
     align-items: center;

@@ -43,6 +43,7 @@
   .button {
     width: 140px;
     height: 45px;
+    margin-bottom: 10px;
     font-family: 'Roboto', sans-serif;
     font-size: 11px;
     text-transform: uppercase;
@@ -63,4 +64,8 @@
     box-shadow: 0px 15px 20px #80489C;
     color: #fff;
     transform: translateY(-7px);
+  }
+
+  .Modal_comment{
+    margin-bottom: 10px;
   }

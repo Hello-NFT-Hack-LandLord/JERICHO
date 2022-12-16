@@ -9,14 +9,19 @@ function CreatePost() {
         <div className="BoxPost">
         <label for="w3review" className = "CreatePostL">Create Post:</label>
         <textarea id="w3review" name="w3review" rows="4" cols="50"> </textarea>
+        <div className="wrapsote">
         <div class="wrap">
   <button class="button">Dick</button>
-</div>
-<div class="wrap">
+        </div>
+        <div class="wrap">
   <button class="button">Dick</button>
-</div>
+        </div>
+      
+        
     </div>
     </div>
+    </div>
+
   )
 }
 

@@ -7,7 +7,8 @@ function HomePage() {
   return (
     <div className="HomePage">
             <Post/>
-            <Post/>
+            
+            
             <div className='float-btn'>
              <Link to ="/CreatePost"> <button className = "float-btn1">+</button> </Link>
             </div>
