@@ -1,0 +1,11 @@
+/Library/🖥️ - Development/JERICHO/target/debug/deps/fuel_poa_coordinator-fc9d00d47344dcf9.rmeta: /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/lib.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/deadline_clock.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/config.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/ports.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/service.rs
+
+/Library/🖥️ - Development/JERICHO/target/debug/deps/libfuel_poa_coordinator-fc9d00d47344dcf9.rlib: /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/lib.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/deadline_clock.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/config.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/ports.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/service.rs
+
+/Library/🖥️ - Development/JERICHO/target/debug/deps/fuel_poa_coordinator-fc9d00d47344dcf9.d: /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/lib.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/deadline_clock.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/config.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/ports.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/service.rs
+
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/lib.rs:
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/deadline_clock.rs:
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/config.rs:
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/ports.rs:
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/fuel-poa-coordinator-0.15.1/src/service.rs:

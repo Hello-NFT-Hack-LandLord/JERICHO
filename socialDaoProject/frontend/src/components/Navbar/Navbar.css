@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Source+Code+Pro&display=swap');
+
+
+.navbar{
+    background-color: #432C7A;
+    display: flex;
+    height: 200%;
+    font-family: 'PT Sans', sans-serif;
+    color: #FCE2DB;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+.jerichoname{
+    padding-left: 10px;
+    font-size: 20px;
+}
+.LinksNav{
+
+}
+
+.name-link{
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.DecNet{
+    font-size: 40px;
+    letter-spacing: -3px;
+}
+
+
+a:link { text-decoration: none; }
+
+
+a{
+    color: #FCE2DB;
+}
+
+a:hover{
+    color: #FF8FB1;
+}
+
+/*
+.propos:hover{
+    color: #FCE2DB;
+}
+.propos{
+    color: #FF8FB1;
+}
+/* font-family: 'Source Code Pro', monospace; */
+
+
+

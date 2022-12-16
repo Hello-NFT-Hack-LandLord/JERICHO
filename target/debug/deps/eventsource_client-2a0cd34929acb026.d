@@ -1,0 +1,11 @@
+/Library/🖥️ - Development/JERICHO/target/debug/deps/eventsource_client-2a0cd34929acb026.rmeta: /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/lib.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/client.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/config.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/error.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/event_parser.rs
+
+/Library/🖥️ - Development/JERICHO/target/debug/deps/libeventsource_client-2a0cd34929acb026.rlib: /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/lib.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/client.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/config.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/error.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/event_parser.rs
+
+/Library/🖥️ - Development/JERICHO/target/debug/deps/eventsource_client-2a0cd34929acb026.d: /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/lib.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/client.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/config.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/error.rs /Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/event_parser.rs
+
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/lib.rs:
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/client.rs:
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/config.rs:
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/error.rs:
+/Users/fede/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-client-0.10.2/src/event_parser.rs:
